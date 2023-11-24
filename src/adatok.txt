@@ -1,0 +1,35 @@
+Dell Inspiron 15 39,624 cm
+HP Pavilion x360 35,56 cm
+Apple MacBook Pro 13 33,782000000000004 cm
+Lenovo IdeaCentre 3 54,61 cm
+Acer Aspire TC-895-UA92 60,452000000000005 cm
+Custom PC Build 68,58 cm
+HP Pavilion Desktop 49,53 cm
+Lenovo Ideacentre 510A 54,61 cm
+Old Custom PC 48,26 cm
+Dell OptiPlex 5080 39,624 cm
+Asus ROG Strix G17 43,942 cm
+HP Pavilion Power 54,61 cm
+Acer Chromebox 54,61 cm
+Dell Vostro 3681 54,61 cm
+Lenovo IdeaCentre AIO 3 60,452000000000005 cm
+Microsoft Surface Studio 2 68,58 cm
+Apple iMac 27 68,58 cm
+Dell Alienware Aurora 60,452000000000005 cm
+Lenovo ThinkCentre M90n 60,452000000000005 cm
+Microsoft Surface Studio 71,12 cm
+Dell Inspiron Small Desktop 60,452000000000005 cm
+HP Slimline 290-p0043w 60,452000000000005 cm
+HP EliteDesk 800 G6 60,452000000000005 cm
+Acer Aspire TC-885-UA92 60,452000000000005 cm
+Lenovo IdeaCentre 310S 60,452000000000005 cm
+HP Pavilion TG01 60,452000000000005 cm
+Asus VivoMini VC66 60,452000000000005 cm
+Dell OptiPlex 7070 60,452000000000005 cm
+HP Pavilion Desktop 60,452000000000005 cm
+Microsoft Surface Studio 2 68,58 cm
+Apple iMac 27 68,58 cm
+Dell Alienware Aurora 68,58 cm
+Lenovo ThinkCentre M90n 68,58 cm
+Microsoft Surface Studio 68,58 cm
+Dell Inspiron Small Desktop 68,58 cm
